@@ -3,3 +3,5 @@ MSE/exports/*/*.png
 MSE/exports/*/*.jpg
 
 !/Cockatrice/data
+Cockatrice/data/pics/*/*png
+Cockatrice/data/pics/*/*jpg

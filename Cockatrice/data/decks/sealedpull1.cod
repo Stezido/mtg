@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jan 9 13:10:09 2026</lastLoadedTimestamp>
+    <deckname>xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments>spoiler set=&quot;Chaos Brawl: The Foul Realms&quot;&gt;</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Du gibst dem Baby a Müch"/>
+        <card number="1" name="Mysterious Remedy"/>
+        <card number="1" name="Mysterious Remedy"/>
+        <card number="1" name="The Tipsy Ram"/>
+        <card number="1" name="Toast of Comfort"/>
+        <card number="1" name="Toast of Comfort"/>
+        <card number="1" name="Academic Quarter"/>
+        <card number="1" name="Circular Conversation"/>
+        <card number="1" name="Cold Splash"/>
+        <card number="1" name="Confusing Signals"/>
+        <card number="1" name="Controlling Relationship"/>
+        <card number="1" name="Controlling Relationship"/>
+        <card number="1" name="Echo of Empathy"/>
+        <card number="1" name="Hangover"/>
+        <card number="1" name="Jealous Siren"/>
+        <card number="1" name="Library of Shared Memories"/>
+        <card number="1" name="Library of Shared Memories"/>
+        <card number="1" name="Nagging Siren Twin"/>
+        <card number="1" name="Nutshot overload"/>
+        <card number="1" name="Nutshot overload"/>
+        <card number="1" name="Owizahrer"/>
+        <card number="1" name="Owizahrer"/>
+        <card number="1" name="A Wifes Argument"/>
+        <card number="1" name="Couchpotato"/>
+        <card number="1" name="Gastronomic Downfall"/>
+        <card number="1" name="Last Duel"/>
+        <card number="1" name="Last Duel"/>
+        <card number="1" name="Overdose Revival"/>
+        <card number="1" name="Party Foul"/>
+        <card number="1" name="Wixbirne"/>
+        <card number="1" name="Zimty"/>
+        <card number="1" name="Zimty"/>
+        <card number="1" name="Bottle Bash"/>
+        <card number="1" name="Bottle Bash"/>
+        <card number="1" name="Drunken Warrior"/>
+        <card number="1" name="Happy Hour"/>
+        <card number="1" name="Rowdy Riot"/>
+        <card number="1" name="Rowdy Riot"/>
+        <card number="1" name="Straggler"/>
+        <card number="1" name="Straggler"/>
+        <card number="1" name="Blunt Force Trauma"/>
+        <card number="1" name="Cannabis Field Defender"/>
+        <card number="1" name="Indica Hedge"/>
+        <card number="1" name="Indica Hedge"/>
+        <card number="1" name="Mystic Herb Seedling"/>
+        <card number="1" name="Mystic Herb Seedling"/>
+        <card number="1" name="Mystic Hotbox Hut"/>
+        <card number="1" name="Ogrontwin Steve"/>
+        <card number="1" name="Overgrown Fermentation Beds"/>
+        <card number="1" name="Weedfield Herbalist"/>
+        <card number="1" name="Blood Moon Rising"/>
+        <card number="1" name="Brie-lliant Trapper"/>
+        <card number="1" name="Chaotic Kitchen"/>
+        <card number="1" name="The Hangry Games"/>
+        <card number="1" name="Ice Cold Siren"/>
+        <card number="1" name="Nutten und Koks"/>
+        <card number="1" name="Raging Alcoholic"/>
+        <card number="1" name="Sasa the Big Brother"/>
+        <card number="1" name="Soul Eater Siren"/>
+        <card number="1" name="A Week of Excess"/>
+        <card number="1" name="AJDE"/>
+        <card number="1" name="Baked Ham Noodle Casserole"/>
+        <card number="1" name="Baked Ham Noodle Casserole"/>
+        <card number="1" name="Bochana Jugobeidl"/>
+        <card number="1" name="Bromoment"/>
+        <card number="1" name="Distant Aunt Alestorm"/>
+        <card number="1" name="Distant Aunt Alestorm"/>
+        <card number="1" name="Distant Aunt Alestorm"/>
+        <card number="1" name="Distant Cousin Windtongue"/>
+        <card number="1" name="Mixed Grill Platter"/>
+        <card number="1" name="Mixed Grill Platter"/>
+        <card number="1" name="Blue Cow"/>
+        <card number="1" name="Golden Stethoscope"/>
+        <card number="1" name="Paladins Nose Protection"/>
+        <card number="1" name="Parsley Root"/>
+        <card number="1" name="Parsley Root"/>
+        <card number="1" name="The Puzzlemasters Grimoire"/>
+        <card number="1" name="Spars Bazaar"/>
+        <card number="1" name="Spars Bazaar"/>
+        <card number="1" name="Tschuschnpfeiferl"/>
+        <card number="1" name="Distillery of Silent Death"/>
+        <card number="1" name="Sacred Brewery"/>
+        <card number="1" name="Sacred Brewery"/>
+        <card number="1" name="Sacred Brewery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Beer" setShortName="Chaos Brawl"/>
+        <card number="2" name="Another Brother" setShortName="Chaos Brawl"/>
+        <card number="1" name="Hangry Siren" setShortName="Chaos Brawl"/>
+        <card number="2" name="Jade Dragon" setShortName="Chaos Brawl"/>
+    </zone>
+</cockatrice_deck>

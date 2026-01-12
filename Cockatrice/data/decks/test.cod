@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jan 11 08:42:23 2026</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Bottle Bash" setShortName="Chaos Brawl"/>
+        <card number="1" name="Cannabis Field Defender" setShortName="Chaos Brawl"/>
+        <card number="2" name="Brewmaster Grunthar" setShortName="Chaos Brawl"/>
+        <card number="1" name="Blightborne Colossus" setShortName="Chaos Brawl"/>
+        <card number="1" name="Coffee Shop" setShortName="Chaos Brawl"/>
+        <card number="1" name="Distant Aunt Alestorm" setShortName="Chaos Brawl"/>
+        <card number="1" name="Celestial Waters" setShortName="Chaos Brawl"/>
+        <card number="3" name="Bochana Jugobeidl" setShortName="Chaos Brawl"/>
+    </zone>
+</cockatrice_deck>

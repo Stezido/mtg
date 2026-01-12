@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>Chaos Brawl</name>
+      <longname>Chaos Brawl: The Foul Realms</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Wasted</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. If that creature had one or more drunk counters on it, exile it instead.</text>
+    </card>
+    <card>
+      <name>Nutten und Koks</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you lose 2 life. Then choose one —
+Create a Treasure token.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Wixbirne</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Food Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wixbirne enters the battlefield, target opponent discards a card unless they pay 3 life.
+{2}, {T}, Sacrifice Wixbirne: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Couchpotato</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Food Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}, Sacrifice Couchpotato: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Puddinghead</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Food Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{2}, {T}, Sacrifice Puddinghead: You gain 3 life.
+When Puddinghead dies, you lose 3 life.</text>
+    </card>
+    <card>
+      <name>Buy a Round</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two Beer Token.
+</text>
+    </card>
+    <card>
+      <name>Food Coma</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Food Coma enters, exile target creature an opponent controls until Food Coma leaves the battlefield. Create a Food token.</text>
+    </card>
+    <card>
+      <name>Last Man Standing</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a creature at random. Destroy all other creatures.</text>
+    </card>
+    <card>
+      <name>The Tipsy Ram</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Drunken creatures you control get +1/+1 and have vigilance.</text>
+    </card>
+    <card>
+      <name>Toast of Comfort</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each creature gains a Drunken counter.</text>
+    </card>
+    <card>
+      <name>A Wife&apos;s Argument</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature spell unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>Charming Siren</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Charming Siren enters the battlefield, obsess target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Circular Conversation</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Enraged Reef Leviathan</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fish Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Enraged Reef Leviathan gets +3/+3 as long as there are three or more Sirens in your graveyard.</text>
+    </card>
+    <card>
+      <name>Mom&apos;s advice</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell.
+• Surveil 2, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Nagging Siren Twin</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+When Nagging Siren Twin enters the battlefield, create a 1/1 blue Siren creature with flying that is also named Nagging Siren Twin.</text>
+    </card>
+    <card>
+      <name>Nutshot overload</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature and put three stun counters on it.
+Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Ambush on the Throne</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -1/-1 until end of turn. It gets an additional -1/-1 until end of turn for each creature you control.</text>
+    </card>
+    <card>
+      <name>Overdose</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, you may cast spells from your graveyard, but you lose life equal to their mana value.
+At the end of the turn, if you cast three or more spells this way, you lose the game.</text>
+    </card>
+    <card>
+      <name>Drunkard</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Drunken Tolerance 1
+Drunkard enters the battlefield with three Drunken counters on it.</text>
+    </card>
+    <card>
+      <name>Drunken Warrior</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Drunken Warrior enters the battlefield with three Drunken counter on it.
+Drunken counters cannot be removed from Drunken Warrior.</text>
+    </card>
+    <card>
+      <name>Feuerball, Junge!</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>8RR</manacost>
+        <cmc>10</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.
+Explosive Singularity deals 10 damage to any target.</text>
+    </card>
+    <card>
+      <name>Kegbearer</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Half-Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kegbearer, the Barrelback enters the battlefield, create two Beer token.
+Drunken Tolerance 4</text>
+    </card>
+    <card>
+      <name>Blunt Force Trauma</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control. If a creature would survive this fight, tap it. It doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Gimme the herbs</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top four cards of your library. Put all forest cards revealed this way into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Hallucinating Trip</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, all Forests you control become 1/1 green Plant creatures with haste in addition to their other types. They’re still lands.</text>
+    </card>
+    <card>
+      <name>Inspiring Bard</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Inspiring Bard enters, the battlefield, choose one —
+• Bardic Inspiration — Target creature gets +2/+2 until end of turn.
+• Song of Rest — You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Mystic Herb Buddy</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you control four or more Forests, Mystic Herb Buddy has Reach and Trample.</text>
+    </card>
+    <card>
+      <name>Mystic Herb Seedling</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+When Mystic Herb Seedling enters the battlefield, mill three cards. You may put a land card from among the cards milled this way into your hand. If you don’t, put a +1/+1 counter on Mystic Herb Seedling.</text>
+    </card>
+    <card>
+      <name>Mystic Hotbox Hut</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Whenever you produce mana from a non-land source, put a Haze counter on Mystic Hotbox Hut.
+{T}: Add {G}.
+{T}, Remove three Haze counters: Create a 2/2 green Elemental creature token.</text>
+    </card>
+    <card>
+      <name>Brewmaster Grunthar</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Drunken Tolerance 4
+When Brewmaster Grunthar enters the battlefield, create a Beer Token</text>
+    </card>
+    <card>
+      <name>Brüder Hopfenblüte</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+At the beginning of each upkeep, roll a six-sided die. Create a Beer token with the result indicated below.
+1 — Failure Beer
+2 — Zwickl Beer
+3 — Wheat Beer
+4 — Dark Beer
+5 — Pils Beer
+6 — Bock Beer
+Drunken tolerance 6
+</text>
+    </card>
+    <card>
+      <name>Ice Cold Siren</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent discards a card, draw a card.
+1UB,{T}: Target opponent discards a card. Activate this ability only once.</text>
+    </card>
+    <card>
+      <name>Wake and Bake</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card, then you may put a land card from your hand onto the battlefield tapped. Create a Food token.</text>
+    </card>
+    <card>
+      <name>Rotting Flesh</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Food Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+When Rotting Flesh dies, you lose 2 life.
+{2},{T}, Sacrifice Rotting Flesh: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Decaying Orchard</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G} to your mana pool.)
+As Decaying Orchard enters the battlefield, you may pay 2 life. If you don’t, Decaying Orchard enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Distillery of Silent Death</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B} to your mana pool.)
+As Distillery of Silent Death enters the battlefield, you may pay 2 life. If you don’t, Distillery of Silent Death enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Hopsfield Vale</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W} to your mana pool.)
+As Hopsfield Vale enters the battlefield, you may pay 2 life. If you don’t, Hopsfield Vale enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Sacred Brewery</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W} to your mana pool.)
+As Sacred Brewery enters the battlefield, you may pay 2 life. If you don’t, Sacred Brewery enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Parsley Root</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Parsley Root enters the battlefield, you gain 1 life.
+Equipped creature gets +1/+0.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Celestial Waters</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Celestial Waters enters the battlefield, put a stun counter on each creature.
+At the beginning of your upkeep, you may untap a creature you control.</text>
+    </card>
+    <card>
+      <name>Gluttonous Scavenger</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a Food, put a +1/+1 counter on Gluttonous Scavenger.
+{B/G}, Exile two cards from your graveyard: Create a Food token.</text>
+    </card>
+    <card>
+      <name>Brie-lliant Trapper</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Brie-lliant Trapper enters the battlefield, create a Food token.
+{G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery. 
+{B}, Sacrifice a Food: Target creature gets -1/-1 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Frühshoppen</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Create a Food token.
+Create a Beer Token
+For each Food or Beer you control, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Gastronomic Downfall</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+ Distribute two -1/-1 counters among one or two target creatures.
+Remove all counters from all creatures. Gastronomic Downfall deals damage equal to the total number of counters removed this way to any target.
+​</text>
+    </card>
+    <card>
+      <name>A Week of Excess</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>2WUBRG</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Mill 7 cards. Put any number of creatures that were milled this way onto the battlefield under your control. Those creatures gain haste until end of turn.
+Put two Drunken counters on each creature you control.
+Double all Drunken counters on creatures you control.</text>
+    </card>
+    <card>
+      <name>Kiss of Poseidon</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Mill four cards.
+Choose an instant or sorcery card from your graveyard and put it into your hand.
+You may return a creature to its owner’s hand. If it’s one of your creatures, draw a card.</text>
+    </card>
+    <card>
+      <name>Chaotic Kitchen</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Chaotic Kitchen enters the battlefield, create two Food tokens.
+Food tokens you control are 2/2 creatures with “{2}, Sacrifice this artifact: You gain 3 life” in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Double Burn</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Double Burn deals 2 damage to any target.
+Flashback—3R  (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Eggron McBong</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Eggron </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Create one 2/2 Plant token with “T: Add G.”
+[-2]: Until end of turn, whenever you tap a nonland permanent for mana, you gain 3 life and draw a card.
+[-6]: You get an emblem with “Whenever you tap a 
+Plant token, deal damage equal to its power to any target.</text>
+    </card>
+    <card>
+      <name>Pumpkin Barrage Crew</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pumpkin Barrage Crew enters the battlefield, create a Food token.
+{2}, Sacrifice a Food token: Pumpkin Barrage Crew deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Mattn, the Tasty Prince</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, create a Food token.
+Whenever you sacrifice a Food token, put a +1/+1 counter on Mattn, the Tasty Prince.</text>
+    </card>
+    <card>
+      <name>Anschnly, the Vengeful Siren</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell with mana value 2 or less, draw a card.
+Whenever you cast a spell with mana value 3 or greater, Anschnly, the Vengeful Siren deals 2 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Noxious Cloud</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -4/-4 until end of turn.</text>
+    </card>
+    <card>
+      <name>Mistcliff Springs</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R} to your mana pool.)
+As Mistcliff Springs enters the battlefield, you may pay 2 life. If you don’t, Mistcliff Springs enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Mistcliff Waterfall</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R} to your mana pool.)
+As Mistcliff Waterfall enters the battlefield, you may pay 2 life. If you don’t, Mistcliff Waterfall enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Caring Siren</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+Flash
+Flying 
+When Caring Siren enters, target creature you control gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Jealous Siren</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+Whenever an opponent targets another creature you control with a spell or ability, Jealous Siren deals 2 damage to that player.</text>
+    </card>
+    <card>
+      <name>Endless Expectations</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, if you control X or more untapped lands, where X is the number of Fulfillment counters on Endless Expectations, put a Fulfillment counter on it and draw a card. If you do not control X or more untapped lands, sacrifice Endless Expectations.</text>
+    </card>
+    <card>
+      <name>Rollercoaster of Emotions</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Distribute three +1/+1 counters among any number of creatures.
+For each creature, move all counters from it onto a creature controlled by another player, if able.</text>
+    </card>
+    <card>
+      <name>Chaotic Council</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each color of mana spent to cast this spell, create a 2/2 Spirit creature token of that color.</text>
+    </card>
+    <card>
+      <name>Youthful Inner Heat</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When Youthful Inner Heat enters the battlefield, enchanted creature gains hexproof until end of turn.
+Enchanted creature has ward—“Gift a card.”</text>
+    </card>
+    <card>
+      <name>Brotherhood&apos;s Impact</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Up to two target creatures each get +1/+2 until end of turn. 
+• Target creature an opponent controls loses all abilities until end of turn.</text>
+    </card>
+    <card>
+      <name>Tactical Purge</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature loses all abilities.
+Enchanted creature gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Mysterious Remedy</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from any graveyard to the battlefield under your control. Put a finality counter on it.(If it would die, exile it instead.)</text>
+    </card>
+    <card>
+      <name>Last Duel</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player returns a target creature card from their graveyard to the battlefield. Put a finality counter on each of them. (If they would die, exile them instead.)</text>
+    </card>
+    <card>
+      <name>Overdose Revival</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. Put a finality counter on it. It gains
+upkeep — Pay 2B</text>
+    </card>
+    <card>
+      <name>Numbing Mass Resurrection</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>5WB</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player returns all creature cards from their graveyard to the battlefield. They enter the battlefield with a finality counter on them. (If they would die, exile them instead.)
+Creatures with a finality counter on them lose all abilities.</text>
+    </card>
+    <card>
+      <name>Hangry</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+0 and gains haste until end of turn.
+If you control a Food, it also gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Sweet Harmless Siren</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sweet Harmless Siren enters the battlefield, obsess up to one target creature.</text>
+    </card>
+    <card>
+      <name>Baiting Siren</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U: Obsess target creature. Whenever a obsessed creature attacks, draw a card.</text>
+    </card>
+    <card>
+      <name>Hofi, the Fragrant</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Hofi </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Create a Food token.
+[-2]: Sacrifice a Food. Target creature gets -3/-3 until end of turn.
+[-6]: Sacrifice all Food you control. Each creature gets -3/-3 for each Food sacrificed this way. Each opponent loses life equal to the number of creatures that died due to this effect and the number of Food tokens sacrificed this way.</text>
+    </card>
+    <card>
+      <name>Peter, the Manipulative</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Peter </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a player attacks with one or more obsessed creatures, draw a card.
+[+1]: Obsess target creature.
+[-8]: You get an emblem with “Whenever you obsess a creature, take control of it.”
+</text>
+    </card>
+    <card>
+      <name>Sasa, the Big Brother</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Sasa </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a Gnome you control dies, put a 
+“Lost Family” counter on Sasa, the Big Brother.
+[+1]: Target opponent loses 2 life and you gain 2 life. Put a “Lost Family” counter on Sasa.
+[-2]: Create two 2/2 black Gnome creature tokens named “Another Brother.”
+[-6]: Remove all “Lost Family” counters from Sasa. Create that many 4/4 black Gnome creature tokens with haste named the “Vengeful Gnome Pack”.</text>
+    </card>
+    <card>
+      <name>Stefan, the Eternal Annoyer</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Stefan </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a noncreature spell is cast, you gain 2 life.
+[+1]: Until your next upkeep, each opponent may only cast spells any time they could cast a sorcery.
+[-2]: Search your library for a noncreature, nonplaneswalker card, reveal it, and put it into your hand. Then shuffle.
+[-6]: Until end of turn, you may cast noncreature, nonplaneswalker spells from your graveyard without paying their mana costs. If a spell cast this way would be put into a graveyard, exile it instead.</text>
+    </card>
+    <card>
+      <name>Alex, the Cozy</name>
+      <set rarity="mythic">Chaos Brawl</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Alex </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Search your library for a Forest card and put it onto the battlefield. It becomes a 2/2 green Elemental creature with haste. It’s still a land.
+[-2]: Deal damage equal to the number of Forests you control to target creature.
+[-6]: You get an emblem with “Forests you control are 3/3 green Elemental creatures with haste and trample. They’re still lands.
+[-6]: </text>
+    </card>
+    <card>
+      <name>The Hangry Games</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, each creature becomes a 1/1 red and blue Siren creature with haste and loses all abilities, other creature types and colors.
+Create three 1/1 red and blue “Hangry Siren” creature tokens with haste.</text>
+    </card>
+    <card>
+      <name>Flat-Footed</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment  - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature becomes tapped, put a stun counter on it.
+When Flat-Footed enters the battlefield, tap enchanted creature.</text>
+    </card>
+    <card>
+      <name>Owizahrer</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Upkeep—Put a stun counter on target creature you control.
+Whenever a stun counter is put on a creature, draw a card.
+Owizahrer can’t attack.</text>
+    </card>
+    <card>
+      <name>Hungry Disgust</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human  </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hungry Disgust enters the battlefield, create a Food token.
+Upkeep— Sacrifice a Food. (At the beginning of your upkeep, you must  Sacrifice a Food. If you don’t, sacrifice this permanent.)
+Whenever you sacrifice a Food, put a +1/+1 counter on Hungry Disgust.</text>
+    </card>
+    <card>
+      <name>Academic Quarter</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may plot the next creature spell you cast this turn by paying its mana cost. (If you do, exile it as you cast it. You may cast it later.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Straggler</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Straggler enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Happy Hour</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player creates two Beer tokens.
+Then each creature gains an obsession counter.</text>
+    </card>
+    <card>
+      <name>Echo of Empathy</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Move all counters from target creature onto another target creature.</text>
+    </card>
+    <card>
+      <name>Controlling Relationship</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+When this Aura enters, tap enchanted permanent.
+You control enchanted permanent.
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Confusing Signals</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a player.
+Tap up to two target creatures that player controls. Put a stun counter on each. That player draws a card for each creature tapped this way.</text>
+    </card>
+    <card>
+      <name>Weedfield Herbalist</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}.
+ </text>
+    </card>
+    <card>
+      <name>Weedfield Grazer</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice a Forest: Create a Food token.</text>
+    </card>
+    <card>
+      <name>Tavern Time Out</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tavern Time-Out enters the battlefield, exile target drunken creature an opponent controls until Tavern Time-Out leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Tavern Hand</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tavern Hand enters the battlefield, create a Beer token.</text>
+    </card>
+    <card>
+      <name>Coffee Shop</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Tokens you control have “{T}: Add {G}.”</text>
+    </card>
+    <card>
+      <name>Pumpkin Catapult</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+When Pumpkin Catapult enters the battlefield, create a 1/1 red Pilot creature token named Pumpkin Gang Driver with “This creature crews Vehicles as though its power were 2 greater.”
+Crew 3
+Whenever you crew Pumpkin Catapult, you may sacrifice any number of drunken creatures that are crewing it. Pumpkin Catapult deals 2 damage to any target for each creature sacrificed this way. You may choose new targets for each instance of damage.</text>
+    </card>
+    <card>
+      <name>Vandalism</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>
+Destroy target artifact or enchantment.
+If a permanent is destroyed this way, its controller loses 2 life.</text>
+    </card>
+    <card>
+      <name>Ogrontwin Steve</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Giant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+As long as you control a creature named “Ogrontwin Pete”, Ogrontwin Steve gets +3/+3.</text>
+    </card>
+    <card>
+      <name>Ogrontwin Pete</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Giant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+As long as you control a creature named “Ogrontwin Steve”, Ogrontwin Pete gets +3/+3.</text>
+    </card>
+    <card>
+      <name>Bromoment</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/GR/GR/G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card named Ogrontwin Pete or Ogrontwin Steve, reveal it, and put it into your hand. If you control one with that name, you may put it onto the battlefield instead. Then shuffle.  </text>
+    </card>
+    <card>
+      <name>Blood Moon Rising</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+At the beginning of enchanted creature’s controller’s upkeep, they lose 2 life.
+Whenever another permanent enters the battlefield, put a obsession counter on enchanted creature.
+As long as enchanted creature has five or more obsession counters on it, it gets +10/+0, has menace and first strike.</text>
+    </card>
+    <card>
+      <name>Zimty</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Food Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Zimty dies, target opponent discards a card.
+{2}, {T}, Sacrifice Zimty: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Mystic Herb Vegetative</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+When Mystic Herb Vegetative enters the battlefield, mill three cards. You may put a land card from among the cards milled this way into your hand. If you don’t, put a +1/+1 counter on Mystic Herb Vegetative.</text>
+    </card>
+    <card>
+      <name>Raging Alcoholic</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Drunken Tolerance 5
+Upkeep—Sacrifice a Beer token.
+Whenever Raging Alcoholic attacks, create a Beer token.</text>
+    </card>
+    <card>
+      <name>Rotten Cellar</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantement - Location</type>
+        <maintype>Enchantement</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a Food token you control is put into a graveyard from the battlefield, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Rowdy Tavern</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Drunken creatures you control get +1/+0 and have haste.</text>
+    </card>
+    <card>
+      <name>Laughing fit</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>The Puzzlemaster&apos;s Grimoire</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Puzzlemaster’s Grimoire enters the battlefield, scry 1.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Spar&apos;s Bazaar</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+Activated abilities of Beer and Food tokens cost {1} less to activate.</text>
+    </card>
+    <card>
+      <name>Spar&apos;s Bazaar</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+Activated abilities of Beer and Food tokens cost {1} less to activate.</text>
+    </card>
+    <card>
+      <name>Blue Cow</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blue Cow enters the battlefield with three charge counters on it.
+{T}, Remove a charge counter from Blue Cow: Target creature gains flying until end of turn.
+When the last charge counter is removed from Blue Cow, sacrifice it.</text>
+    </card>
+    <card>
+      <name>Library of Shared Memories</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Move a counter from one creature you control to another creature you control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Sarma</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3G/W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sarma enters the battlefield with four charge counters on it.
+{T}, Remove a charge counter from Sarma: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.
+{2}, {T}, Sacrifice Sarma: You gain 4 life.</text>
+    </card>
+    <card>
+      <name>Soul Eater Siren</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Soul Eater Siren’s power and toughness are each equal to the number of counters on creatures on the battlefield.</text>
+    </card>
+    <card>
+      <name>Baked Ham Noodle Casserole</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Baked Ham Noodle Casserole enters the battlefield with four charge counters on it.
+{T}, Remove a charge counter from Baked Ham Noodle Casserole: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.
+{2}, {T}, Sacrifice Baked Ham Noodle Casserole: You gain 4 life.</text>
+    </card>
+    <card>
+      <name>White Sausage Leberkäse</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>White Sausage Leberkäse enters the battlefield with four charge counters on it.
+{T}, Remove a charge counter from White Sausage Leberkäse: Target creature gets +1/+1 and gains vigilance until end of turn. Activate only as a sorcery.
+{2}, {T}, Sacrifice White Sausage Leberkäse: You gain 4 life.</text>
+    </card>
+    <card>
+      <name>Stink Normale Birnen</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1G/W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Stink Normale Birnen:
+Creatures you control get +0/+1 until end of turn. 
+For each creature buffed this way, create a 1/1 green Elemental creature token named Stinky Elemental.</text>
+    </card>
+    <card>
+      <name>Mixed Grill Platter</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3G/W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Mixed Grill Platter enters the battlefield with four charge counters on it.
+{T}, Remove a charge counter from Mixed Grill Platter: Target creature gets +2/+1 and trample until end of turn. Activate only as a sorcery.
+{2}, {T}, Sacrifice Mixed Grill Platter: You gain 4 life.</text>
+    </card>
+    <card>
+      <name>Bochana Jugobeidl</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you sacrifice Bochana Jugobeidl, return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+{2}, {T}, Sacrifice Bochana Jugobeidl: You gain 4 life. </text>
+    </card>
+    <card>
+      <name>Hairy Surprise</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Paladin&apos;s Nose Protection</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +0/+2 and has Ward {1}.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Party Foul</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Golden Stethoscope</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equip {3}
+When Golden Stethoscope enters the battlefield, attach it to target creature.
+Whenever equipped creature attacks, look at the top two cards of attacked opponent’s library. Exile one of them and put the other on the bottom of that library.
+You may play cards exiled this way for as long as they remain exiled. You may spend mana as though it were of any color to cast those spells.</text>
+    </card>
+    <card>
+      <name>Tschuschnpfeiferl</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equip {3}
+Whenever equipped creature attacks, create a 4/4 black Gnome creature token named “Vengeful Gnome Pack” tapped and attacking. Exile that token at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Distant Cousin Windtongue</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Distant Cousin Windtongue enters the battlefield, create three blue and black Sorcery cards named AJDE! with mana cost {0} and “Draw a card.” Shuffle them into your library.</text>
+    </card>
+    <card>
+      <name>AJDE!</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Distant Cousin Stinkpot</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2B/G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Distant Cousin Stinkpot enters the battlefield, return up to one target Food card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Distant Cousin Shotcrusher</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Drunken Tolerance 3
+Whenever another creature you control gets a Drunken counter, Distant Cousin Shotcrusher also gets a Drunken counter.</text>
+    </card>
+    <card>
+      <name>Distant Uncle Goldbeard</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3W/B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Distant Uncle Goldbeard enters the battlefield, create a Beer token for each other creature you control.</text>
+    </card>
+    <card>
+      <name>Grandma Dragana Blackbrew</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Gnomes you control get +1/+1.
+Whenever another Gnome enters the battlefield under your control, you gain 2 life.
+Whenever another Gnome you control dies, target opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Distant Aunt Alestorm</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Gnome you control attacks, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Bottle Bash</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Bottle Bash deals 3 damage to target creature or planeswalker.
+If you control a Drunken creature, Bottle Bash deals 5 damage instead.</text>
+    </card>
+    <card>
+      <name>Mocking Parrot</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast an instant or sorcery spell with mana value 2 or less for the first time each turn, you may copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Loyal Watchdog</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Loyal Watchdog attacks with exactly one other creature, Loyal Watchdog and that creature each get +1/+0 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Critical S(h)it</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>
+Destroy target tapped creature.</text>
+    </card>
+    <card>
+      <name>The Unflushed</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ooze Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Unflushed gets +0/+1 for each Food card in your graveyard.</text>
+    </card>
+    <card>
+      <name>Indica Hedge</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, Ward {1}</text>
+    </card>
+    <card>
+      <name>Cannabis Field Defender</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}</text>
+    </card>
+    <card>
+      <name>Du gibst dem Baby a Müch</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t be activated.</text>
+    </card>
+    <card>
+      <name>Milk</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>G/W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice Milk: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Cini Minis</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>G/W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice Cini Minis: 
+You gain 3 life. You may sacrifice a Food named Milk as part of this ability. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>Rowdy Riot</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human, Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Beer token is sacrificed, Rowdy Riot gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Hangover</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. Remove all counters from it. Then put three stun counters on it.</text>
+    </card>
+    <card>
+      <name>Cold Splash</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Remove up to two Stun counters and/or Obsession counters from target creature.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Too Drunk to Dodge</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature.
+If it has one or more Drunken counters, put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Bottomless Keg</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Create a Beer token.</text>
+    </card>
+    <card>
+      <name>Illusional Dream</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Wobbly Gnome</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Wobbly Gnome is Drunken, it has menace.</text>
+    </card>
+    <card>
+      <name>Way-Expired Wiener</name>
+      <set rarity="common">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Food Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+    </card>
+    <card>
+      <name>Under-City Back Room</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantement - Location</type>
+        <maintype>Enchantement</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice a creature: Create a Another Brother token. (2/2 black Gnome creature)
+{5}, {T}, Sacrifice a creature: Create a Vengeful Gnome Pack token. (4/4 black Gnome creature)</text>
+    </card>
+    <card>
+      <name>Overgrown Fermentation Beds</name>
+      <set rarity="uncommon">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Location </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {G}.
+At the beginning of your end step, you may put a Drunken counter on a Plant creature.</text>
+    </card>
+    <card>
+      <name>Blightborne Colossus</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Plant, Giant </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Upkeep—Put a -1/-1 counter on Blightborne Colossus.
+Reach</text>
+    </card>
+    <card>
+      <name>Untamable Grove Colossus</name>
+      <set rarity="rare">Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant, Giant </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters tapped with three stun counters on it.
+Reach</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken Counter on target creature.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Jade Dragon</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Another Brother</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Failure Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken counter on target creature. That creature gets –2/–2 until end of turn. </text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Pils Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken counter on target creature. That creature gets first strike until end of turn. </text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Zwickl Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken counter on target creature. That creature gets haste until end of turn.  (That creature can attack and {T} as soon as it comes under your control.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wheat Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken counter on target creature. That creature gets vigilance until end of turn. </text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dark Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken counter on target creature. That creature gets menace until end of turn.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bock Beer</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Beer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2},{T}, Sacrifice this artifact: Put a Drunken counter on target creature, then double the number of drunken counters on that creature.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hangry Siren</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors>UR</colors>
+        <type>Token Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>                                                    </text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Stinky Elemental</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>                  </text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vengeful Gnome Pack</name>
+      <set>Chaos Brawl</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
