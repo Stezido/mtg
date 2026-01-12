@@ -1,0 +1,5 @@
+Cockatrice/*
+MSE/exports/*/*.png
+MSE/exports/*/*.jpg
+
+!/Cockatrice/data
